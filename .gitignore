@@ -1,0 +1,51 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/JSON Database with Java/*
+!/JSON Database with Java/task/
+/JSON Database with Java/task/*
+!/JSON Database with Java/task/src
+
+# Project exclude paths
+/Topics/ArrayList/Creating list/out/
+/Topics/ArrayList/Creating list/out/production/classes/
+/Topics/ArrayList/Output the list's elements/out/
+/Topics/ArrayList/Output the list's elements/out/production/classes/
+/Topics/Command/Forex Broker/out/
+/Topics/Command/Forex Broker/out/production/classes/
+/Topics/Command/Remote control/out/
+/Topics/Command/Remote control/out/production/classes/
+/Topics/Command/Stock broker/out/
+/Topics/Command/Stock broker/out/production/classes/
+/Topics/Custom threads/Message notifier as a thread/out/
+/Topics/Custom threads/Message notifier as a thread/out/production/classes/
+/Topics/Formatted output/The battle for Mathematics/out/
+/Topics/Formatted output/The battle for Mathematics/out/production/classes/
+/Topics/Input streams/Count words/out/
+/Topics/Input streams/Count words/out/production/classes/
+/Topics/Input streams/Reverse input text/out/
+/Topics/Input streams/Reverse input text/out/production/classes/
+/Topics/The Collections framework overview/Sorting the digits of an integer in ascending order/out/
+/Topics/The Collections framework overview/Sorting the digits of an integer in ascending order/out/production/classes/
+/Topics/The List interface/Backward indexes/out/
+/Topics/The List interface/Backward indexes/out/production/classes/
+/Topics/The List interface/Find the middle element in a sequence/out/
+/Topics/The List interface/Find the middle element in a sequence/out/production/classes/
+/Topics/The Set interface/Output elements/out/
+/Topics/The Set interface/Output elements/out/production/classes/
+/Topics/Threads as objects/Theory/out/
+/Topics/Threads as objects/Theory/out/production/classes/
+/Topics/Try with resources/Theory/out/
+/Topics/Try with resources/Theory/out/production/classes/
+/Topics/Wrapping classes. Boxing/Manipulating primitive data types using wrapper classes/out/
+/Topics/Wrapping classes. Boxing/Manipulating primitive data types using wrapper classes/out/production/classes/
+/Topics/

@@ -1,0 +1,1 @@
+"{\n   \"type\":\"set\",\n   \"key\":\"person\",\n   \"value\":{\n      \"name\":\"Elon Musk\",\n      \"car\":{\n         \"model\":\"Tesla Roadster\",\n         \"year\":\"2018\"\n      },\n      \"rocket\":{\n         \"name\":\"Falcon 9\",\n         \"launches\":\"87\"\n      }\n   }\n}"
